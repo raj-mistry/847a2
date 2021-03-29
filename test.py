@@ -14,7 +14,7 @@ class Testing(unittest.TestCase):
 
     def test_boolean2(self):
         a = True
-        b = True
+        b = False
         self.assertEqual(a, b)
 
 
